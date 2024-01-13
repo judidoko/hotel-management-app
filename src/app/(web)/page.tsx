@@ -1,5 +1,5 @@
 import HeroSection from "@/components/HeroSection/HeroSection";
-
+import PageSearch from "@/components/PageSearch/PageSearch";
 
 export default function Home() {
   return (
@@ -7,6 +7,7 @@ export default function Home() {
       <div>
         {/* Hero Section */}
         <HeroSection />
+        <PageSearch />
       </div>
     </>
   );

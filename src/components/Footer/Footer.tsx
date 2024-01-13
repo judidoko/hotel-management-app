@@ -16,7 +16,7 @@ const Footer = () => {
               <p>Plot 234, Edo Road, Wuse II, Abuja</p>
               <div className="flex items-center py-4">
                 <BsFillSendFill />
-                <p className="ml-2">codewithjude</p>
+                <p className="ml-2">Bookaroomwithjuddoko Hotel</p>
               </div>
               <div className="flex items-center">
                 <BsTelephoneOutboundFill />
