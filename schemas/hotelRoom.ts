@@ -48,8 +48,8 @@ const hotelRoom = {
       validation: (Rule) => Rule.required().min(0),
     }),
     defineField({
-      name: "image",
-      title: "Image",
+      name: "images",
+      title: "Images",
       type: "array",
       of: [
         {
