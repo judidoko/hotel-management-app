@@ -7,7 +7,6 @@ import { getFeaturedRoom } from "./../../libs/api";
 
 export default async function Home() {
   const featuredRoom = await getFeaturedRoom();
-  
 
   return (
     <>
