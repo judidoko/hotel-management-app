@@ -14,7 +14,7 @@ const Header = () => {
 
   return (
     <>
-      <header className="pt-10 pb-2 px-4 container mx-auto text-xl flex flex-wrap md:flex-nowrap items-center justify-between">
+      <header className="pt-10 pb-2 px-4 container mx-auto text-xl flex flex-wrap md:flex-nowrap items-center justify-between static border border-b-gray-500">
         <div className="flex items-center w-full md:w-2/3">
           <Link href="/" className="font-black text-tertiary-dark">
             Juddoko Hotel
